@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obiifeka
-- 👀 I’m interested in ...javascript
-- 🌱 I’m currently learning ... ui/ux
+- 👀 I’m interested in ...machine learning
+- 🌱 I’m currently learning ... python/API/Javascript
 - 💞️ I’m looking to collaborate on ...product design
 - 📫 How to reach me ...+918860036846
 
